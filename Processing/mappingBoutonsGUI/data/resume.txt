@@ -1,0 +1,10 @@
+Interface graphique de la manette adaptee du projet "Realisations en faveur de l'accessibilite aux jeux video".
+
+En cliquant sur le bouton "Config" cela ouvre une fenetre qui va permettre de remapper les boutons de la manette.
+Il est possible d'affecter 2 boutons par jack, avec un intervalle de temps les separant et egalement configurable.
+B1 correspond au 1er bouton du jack, et B2 le 2eme si affecte.
+Le bouton "Defaut" dans la fenetre de configuration remet le jack a l'etat initial.
+ 
+Jerome Bailet & 
+Mehdi Zeggai
+IMA5 - Polytech Lille
