@@ -11,19 +11,6 @@ Replace them with the ones above to add a generic Game Controller to the Arduino
 
 The following describes the Joystick library that is included in the updated USBAPI.h and HID.cpp files.
 
-Connections of the Arduino as follows:
-
-Arduino Pin	 |	Function
------------- |  ---------
-4						 |	Button 1
-7						 |	Button 2
-8						 |	Button 3
-9						 |	Button 4
-12					 |	Button 6
-A0					 |	Joystick Vertical
-A1					 |	Joystick Horizontal
-10					 |	Joystick Button
-
 Compile and upload the JoystickLeonardo.ino file onto the Arduino Leonardo using the Arduino Software (IDE). Tested with version 1.5.6 of the software.
 
 The following steps are for Windows. If you have a different operating system, these steps may differ.
